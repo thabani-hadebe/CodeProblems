@@ -1,0 +1,11 @@
+C:\Users\thabani.hadebe\source\repos\CodeProblems\bin\Debug\netcoreapp2.2\CodeProblems.deps.json
+C:\Users\thabani.hadebe\source\repos\CodeProblems\bin\Debug\netcoreapp2.2\CodeProblems.runtimeconfig.json
+C:\Users\thabani.hadebe\source\repos\CodeProblems\bin\Debug\netcoreapp2.2\CodeProblems.runtimeconfig.dev.json
+C:\Users\thabani.hadebe\source\repos\CodeProblems\bin\Debug\netcoreapp2.2\CodeProblems.dll
+C:\Users\thabani.hadebe\source\repos\CodeProblems\bin\Debug\netcoreapp2.2\CodeProblems.pdb
+C:\Users\thabani.hadebe\source\repos\CodeProblems\obj\Debug\netcoreapp2.2\CodeProblems.csprojAssemblyReference.cache
+C:\Users\thabani.hadebe\source\repos\CodeProblems\obj\Debug\netcoreapp2.2\CodeProblems.csproj.CoreCompileInputs.cache
+C:\Users\thabani.hadebe\source\repos\CodeProblems\obj\Debug\netcoreapp2.2\CodeProblems.AssemblyInfoInputs.cache
+C:\Users\thabani.hadebe\source\repos\CodeProblems\obj\Debug\netcoreapp2.2\CodeProblems.AssemblyInfo.cs
+C:\Users\thabani.hadebe\source\repos\CodeProblems\obj\Debug\netcoreapp2.2\CodeProblems.dll
+C:\Users\thabani.hadebe\source\repos\CodeProblems\obj\Debug\netcoreapp2.2\CodeProblems.pdb
